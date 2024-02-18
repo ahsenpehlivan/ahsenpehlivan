@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm ahsenpehlivan</h1>
-<h3 align="center">🌱 I’m currently learning</h3>
+<h1 align="center">Hi 👋, I'm ahsenpehlivan ヽ(•‿•)ノ</h1>
+<h3 align="center">🌱 I’m currently learning.. (づ ◕‿◕ )づ</h3>
 
-- 🔭 I’m currently working on **nekoren#1361**
+- 🔭 I’m currently working on [nekoren#1361](https://discord.gg/EPfkAdQuDm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahsenpehlivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsenpehlivan" height="30" width="40" /></a>
-Discord Name: grk800
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

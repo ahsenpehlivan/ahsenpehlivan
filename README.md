@@ -1,8 +1,8 @@
-<h1 align="left">Selam 👋</h1>
+<h1 align="left">HI👋</h1>
 
 ###
 
-<p align="left">My name is Ahsen ヽ(•‿•)ノ</p>
+<p align="left">ヽ(•‿•)ノ</p>
 
 ###
 

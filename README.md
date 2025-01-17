@@ -1,23 +1,26 @@
-<h1 align="left">HI👋</h1>
+# Hi there! 👋 I'm Ahsen
 
-###
+🎓 **Computer Engineering Student** | 🖥️ Passionate about **Software Development** and **Technology**  
+📍 Based in Muğla and Eskişehir  
 
-<p align="left">ヽ(•‿•)ノ</p>
+## 🚀 About Me  
+- 🌱 I'm a 2nd-year Computer Engineering student with a strong interest in coding and problem-solving.  
+- 💻 Skilled in **Java** and **Python** (Object-Oriented Programming).  
+- 🔍 Exploring **Blockchain Technology** and building trading bots with **Pine Script** on TradingView.  
+- 🔧 Actively improving my knowledge in **Algorithms** and **Data Structures**.  
 
-###
+## 🛠️ Skills  
+- **Programming Languages**: Java, Python, Pine Script, Dart  
+- **Core Concepts**: Object-Oriented Programming, Algorithms, Data Structures  
+- **Tools**: Git, TradingView, Flutter, Android Studio  
 
-<h2 align="left">I code with</h2>
+## 📊 Current Focus  
+I'm currently working on:  
+- 🏗️ Developing automated trading bots.  
+- 📚 Learning advanced blockchain concepts.  
+- 🤝 Collaborating on open-source projects.  
 
-###
+## 🌐 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/ahsenpehlivan)    
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-</div>
-
-###
-
-###
+Feel free to explore my repositories and connect with me to discuss opportunities or collaborations! 🚀  

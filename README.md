@@ -10,9 +10,8 @@
 - 🔧 Actively improving my knowledge in **Algorithms** and **Data Structures**.  
 
 ## 🛠️ Skills  
-- **Programming Languages**: Java, Python, Pine Script, Dart  
-- **Core Concepts**: Object-Oriented Programming, Algorithms, Data Structures  
-- **Tools**: Git, TradingView, Flutter, Android Studio  
+- **Programming Languages**: Java, Python, Pine Script, Dart, C
+- **Tools**: GitLab, Docker, TradingView, Flutter, Android Studio  
 
 ## 📊 Current Focus  
 I'm currently working on:  

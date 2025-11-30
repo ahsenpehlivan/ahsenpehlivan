@@ -74,8 +74,3 @@
     </td>
   </tr>
 </table>
-
-## 📊 Stats
-
-### 🧠 LeetCode Heatmap
-![LeetCode](https://leetcard.jacoblin.cool/ahsenpehlivan?ext=heatmap&theme=dark)

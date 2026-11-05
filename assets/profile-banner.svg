@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ahsen Pehlivan — Software Developer</title>
+  <desc id="desc">A dark blue and violet banner highlighting games, web, and mobile development.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="55%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1110" cy="0" r="250" fill="#7C3AED" opacity=".12"/>
+  <circle cx="970" cy="330" r="190" fill="#06B6D4" opacity=".11"/>
+  <rect x="62" y="54" width="52" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="62" y="121" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="57" font-weight="800" letter-spacing="2">AHSEN</text>
+  <text x="62" y="184" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="57" font-weight="800" letter-spacing="2">PEHLIVAN</text>
+  <text x="64" y="232" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="1.5">SOFTWARE DEVELOPER</text>
+  <text x="64" y="266" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Games  ·  Web  ·  Mobile</text>
+  <rect x="771" y="55" width="367" height="210" rx="18" fill="#0F172A" stroke="#94A3B8" stroke-opacity=".25"/>
+  <path d="M771 92H1138" stroke="#94A3B8" stroke-opacity=".2"/>
+  <circle cx="799" cy="74" r="5" fill="#FB7185"/>
+  <circle cx="818" cy="74" r="5" fill="#FBBF24"/>
+  <circle cx="837" cy="74" r="5" fill="#34D399"/>
+  <text x="805" y="135" fill="#7DD3FC" font-family="Consolas, monospace" font-size="17">const focus = [</text>
+  <text x="829" y="169" fill="#DDD6FE" font-family="Consolas, monospace" font-size="17">"build", "test",</text>
+  <text x="829" y="203" fill="#DDD6FE" font-family="Consolas, monospace" font-size="17">"ship", "improve"</text>
+  <text x="805" y="237" fill="#7DD3FC" font-family="Consolas, monospace" font-size="17">];</text>
+</svg>

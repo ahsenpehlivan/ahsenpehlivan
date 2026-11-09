@@ -14,28 +14,30 @@
 
 I'm a Computer Engineering student at **Muğla Sıtkı Koçman University** (expected graduation: 2027) and a developer working across games, web products, and Android apps. I enjoy turning ideas into working systems, then refining them through testing and feedback.
 
-## 🎮 Published games
+## ✨ Commercial products
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ Sunberry Order</h3>
-      <p>A 3D restaurant game where players serve customers, earn money, and grow their restaurant.</p>
-      <p><a href="https://play.google.com/store/apps/details?id=com.sunberry.order"><strong>Play on Google Play ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 Farm Sunberry</h3>
-      <p>A Unity/C# farming game. As the main developer in a two-person team, I built gameplay, inventory, progression, and economy systems, plus cloud-backed player services with Unity Gaming Services.</p>
-      <p><a href="https://play.google.com/store/apps/details?id=com.sunberry.farm"><strong>Play on Google Play ↗</strong></a> · <a href="https://github.com/ahsenpehlivan/SunberryFarm">Code showcase ↗</a></p>
-    </td>
-  </tr>
-</table>
+### 📝 Notsen
 
-<sub>The Farm Sunberry repository is a technical showcase and does not contain the full production project.</sub>
+A productivity app for capturing quick notes, organizing Kanban boards, and planning tasks across web and native Android. Built with Next.js, TypeScript, Kotlin, Jetpack Compose, and Supabase.
+
+**[Visit Notsen ↗](https://www.notsen.com/)**
+
+### 🌱 Farm Sunberry
+
+A mobile farming game built in Unity/C#. As the main developer in a two-person team, I worked on gameplay, inventory, progression, economy, and cloud-backed player systems.
+
+**[Website ↗](https://www.farmsunberry.com/sunberry-farm)** · **[Google Play ↗](https://play.google.com/store/apps/details?id=com.sunberry.farm)** · [Public code showcase ↗](https://github.com/ahsenpehlivan/SunberryFarm)
+
+<sub>The public repository contains a limited technical showcase, not the full production project.</sub>
+
+### 🍽️ Sunberry Order
+
+A published 3D restaurant game where players fulfill orders, serve customers, and grow their restaurant.
+
+**[Website ↗](https://www.farmsunberry.com/sunberry-order)** · **[Google Play ↗](https://play.google.com/store/apps/details?id=com.sunberry.order)**
 
 ## 🚀 Selected projects
 
-- **[Notsen](https://github.com/ahsenpehlivan/Notsen)** — Kanban and quick-notes product built with **Next.js, React, TypeScript, Supabase, and PostgreSQL**. The repository also includes a **Kotlin and Jetpack Compose** Android client.
 - **[Tepebaşı BT Destek](https://github.com/ahsenpehlivan/TepebasiBTDestek)** — IT support and device-inventory MVP developed during my internship at Tepebaşı Municipality. Includes a **Next.js** web panel and **Kotlin/Jetpack Compose** Android foundation, with **Supabase Auth, PostgreSQL, and row-level security**.
 - **[Yağmur Rotası](https://github.com/ahsenpehlivan/YagmurRotasi2D)** — **Unity/C# WebGL** water-conservation puzzle game developed for Tepebaşı Municipality. Features a 100-level campaign, puzzle validation tools, progression, and browser-local saves.
 - **[F1 Predictive Modeling](https://github.com/ahsenpehlivan/Applied-Machine-Learning-Project)** — Collaborative **Python** project for feature engineering, podium classification, fastest-lap regression, and a **Streamlit** demo.
